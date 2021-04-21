@@ -1,0 +1,6 @@
+framework module Pods_roam_interviewTests {
+  umbrella header "Pods-roam_interviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
